@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Ana Torres",
+    "correo": "ana@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP001",
+    "puesto": "Gerente de Ventas",
+    "imagen": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "nombre": "Luis Gómez",
+    "correo": "luis@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP002",
+    "puesto": "Asistente de almacén",
+    "imagen": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "nombre": "Carmen Ríos",
+    "correo": "carmen@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP003",
+    "puesto": "Encargada de caja",
+    "imagen": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "nombre": "Mario Fernández",
+    "correo": "mario@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP004",
+    "puesto": "Auxiliar de ventas",
+    "imagen": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "nombre": "Paula Jiménez",
+    "correo": "paula@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP005",
+    "puesto": "Supervisora de tienda",
+    "imagen": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "nombre": "Jorge Díaz",
+    "correo": "jorge@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP006",
+    "puesto": "Responsable de logística",
+    "imagen": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "nombre": "Valeria Soto",
+    "correo": "valeria@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP007",
+    "puesto": "Promotora de productos",
+    "imagen": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "nombre": "Ricardo Méndez",
+    "correo": "ricardo@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP008",
+    "puesto": "Analista de stock",
+    "imagen": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "nombre": "Laura Castillo",
+    "correo": "laura@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP009",
+    "puesto": "Consultora de belleza",
+    "imagen": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "nombre": "Esteban Ruiz",
+    "correo": "esteban@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP010",
+    "puesto": "Encargado de recepción",
+    "imagen": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "nombre": "Natalia Herrera",
+    "correo": "natalia@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP011",
+    "puesto": "Asesora de imagen",
+    "imagen": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "nombre": "Andrés López",
+    "correo": "andres@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP012",
+    "puesto": "Apoyo en caja",
+    "imagen": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "nombre": "Fernanda Vega",
+    "correo": "fernanda@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP013",
+    "puesto": "Jefa de producto",
+    "imagen": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "nombre": "Diego Martínez",
+    "correo": "diego@cosmeticos.com",
+    "tipo_trabajador": "Tiempo completo",
+    "codigo_empleado": "EMP014",
+    "puesto": "Encargado de marketing",
+    "imagen": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "nombre": "Juliana Peña",
+    "correo": "juliana@cosmeticos.com",
+    "tipo_trabajador": "Medio tiempo",
+    "codigo_empleado": "EMP015",
+    "puesto": "Auxiliar de bodega",
+    "imagen": "https://randomuser.me/api/portraits/women/15.jpg"
+  }
+]

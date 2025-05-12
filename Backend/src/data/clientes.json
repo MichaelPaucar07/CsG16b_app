@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Gabriela Moreno",
+    "correo": "gabriela@gmail.com",
+    "cedula": "0102030405",
+    "telefono": "0991234567"
+  },
+  {
+    "nombre": "Carlos Ramírez",
+    "correo": "carlos.ramirez@yahoo.com",
+    "cedula": "1102233445",
+    "telefono": "0987654321"
+  },
+  {
+    "nombre": "Andrea Paredes",
+    "correo": "andrea.paredes@hotmail.com",
+    "cedula": "1728394050",
+    "telefono": "0976543210"
+  },
+  {
+    "nombre": "Diego Sánchez",
+    "correo": "diego.sanchez@gmail.com",
+    "cedula": "1204567891",
+    "telefono": "0964432110"
+  },
+  {
+    "nombre": "Valentina Rojas",
+    "correo": "valentina.rojas@outlook.com",
+    "cedula": "1305678912",
+    "telefono": "0953322110"
+  },
+  {
+    "nombre": "Mateo Castillo",
+    "correo": "mateo.castillo@live.com",
+    "cedula": "1406789123",
+    "telefono": "0945566778"
+  },
+  {
+    "nombre": "Isabela Díaz",
+    "correo": "isabela.diaz@gmail.com",
+    "cedula": "1507891234",
+    "telefono": "0936677889"
+  },
+  {
+    "nombre": "Santiago Torres",
+    "correo": "santiago.torres@yahoo.com",
+    "cedula": "1608912345",
+    "telefono": "0927788990"
+  },
+  {
+    "nombre": "Camila Herrera",
+    "correo": "camila.herrera@correo.com",
+    "cedula": "1709123456",
+    "telefono": "0918899001"
+  },
+  {
+    "nombre": "Sebastián López",
+    "correo": "sebastian.lopez@gmail.com",
+    "cedula": "1801234567",
+    "telefono": "0909001122"
+  },
+  {
+    "nombre": "Mariana Vega",
+    "correo": "mariana.vega@outlook.com",
+    "cedula": "1902345678",
+    "telefono": "0991122334"
+  },
+  {
+    "nombre": "Tomás Romero",
+    "correo": "tomas.romero@hotmail.com",
+    "cedula": "2003456789",
+    "telefono": "0982233445"
+  },
+  {
+    "nombre": "Luciana Ponce",
+    "correo": "luciana.ponce@gmail.com",
+    "cedula": "2104567890",
+    "telefono": "0973344556"
+  },
+  {
+    "nombre": "Felipe Espinoza",
+    "correo": "felipe.espinoza@cosmeticos.com",
+    "cedula": "2205678901",
+    "telefono": "0964455667"
+  },
+  {
+    "nombre": "Renata Cabrera",
+    "correo": "renata.cabrera@gmail.com",
+    "cedula": "2306789012",
+    "telefono": "0955566778"
+  }
+]

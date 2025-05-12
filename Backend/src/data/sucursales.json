@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "Sucursal Centro Quito",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/7ec0b07b-f971-482d-9923-98a43a4170b6___8c3e4f714b2a12e22f174d2aaa423255.jpg",
+    "direccion": "Av. Amazonas y Patria",
+    "ciudad": "Quito",
+    "provincia": "Pichincha"
+  },
+  {
+    "nombre": "Sucursal Mall del Sol",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/44c29444-a920-4291-9997-3df8d81f0475___a87b8af36a50a17fa85fe70ac5498561.jpg",
+    "direccion": "Av. Joaquín Orrantia, Mall del Sol",
+    "ciudad": "Guayaquil",
+    "provincia": "Guayas"
+  },
+  {
+    "nombre": "Sucursal Cuenca Centro",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/1c0b528e-f2ac-4276-b307-9cd0df025cf4___29413df974644c2d6d7cc7c9c23ed49a.jpeg",
+    "direccion": "Luis Cordero y Sucre",
+    "ciudad": "Cuenca",
+    "provincia": "Azuay"
+  },
+  {
+    "nombre": "Sucursal Ambato Plaza",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/eda2d75e-2707-4310-91aa-cddc19e9076f___bf8b93d74b6e9eb7f7eb99cb72493108.jpg",
+    "direccion": "Bolívar y Montalvo",
+    "ciudad": "Ambato",
+    "provincia": "Tungurahua"
+  },
+  {
+    "nombre": "Sucursal Riobamba Norte",
+    "imagen": "https://diariocorreo.com.ec/public/img/uploads/2022-09-17--23-26-11/dmujeres-corte-cinta-5-copiajpg",
+    "direccion": "Av. Daniel León Borja y España",
+    "ciudad": "Riobamba",
+    "provincia": "Chimborazo"
+  },
+  {
+    "nombre": "Sucursal Loja Colonial",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/34d2f4ea-fc6d-46d0-b17f-2bbd5d306afa___ae1debcf0881b263dc3e0279fb551bd5.jpg",
+    "direccion": "Bernardo Valdivieso y José Antonio Eguiguren",
+    "ciudad": "Loja",
+    "provincia": "Loja"
+  },
+  {
+    "nombre": "Sucursal Manta Costa",
+    "imagen": "https://dmujeresec.vtexassets.com/assets/vtex.file-manager-graphql/images/092224c5-bd7d-4ce4-9ee7-a0a9903e9d49___507ef3d22a4aaacf36f6dd4f9a3dc085.jpg",
+    "direccion": "Av. Flavio Reyes y calle 13",
+    "ciudad": "Manta",
+    "provincia": "Manabí"
+  }
+]

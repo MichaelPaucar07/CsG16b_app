@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Labial Mate Rosa Intenso",
+    "precio": 9.99,
+    "imagen": "https://m.media-amazon.com/images/I/81IuH+yQRzL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "nombre": "Set de Brochas Profesional",
+    "precio": 15.50,
+    "imagen": "https://ateneaprofesional.com/cdn/shop/files/Atenea-Ecommerce-Feb10250-1080_grande.jpg?v=1743916189"
+  },
+  {
+    "nombre": "Base Líquida Natural Tono Claro",
+    "precio": 13.75,
+    "imagen": "https://irp.cdn-website.com/45d68102/dms3rep/multi/7.png"
+  },
+  {
+    "nombre": "Paleta de Sombras Neón",
+    "precio": 18.00,
+    "imagen": "https://www.perfumeriasavenida.com/pub/media/catalog/product/cache/4fbcd446712066eccea2fe003f1c49fb/1/0/104122_1-magic-studio-flash-neon-paleta-sombras.jpg"
+  },
+  {
+    "nombre": "Rímel Volumen Extremo",
+    "precio": 7.99,
+    "imagen": "https://www.gloriasaltos.com/wp-content/uploads/2023/06/144470.jpg"
+  },
+  {
+    "nombre": "Esmalte Gel UV Rojo Carmín",
+    "precio": 5.25,
+    "imagen": "https://m.media-amazon.com/images/I/61-8J2wQlSL.jpg"
+  },
+  {
+    "nombre": "Perfume Floral Sensations",
+    "precio": 22.90,
+    "imagen": "https://sensationfragrances.com/cdn/shop/files/53.png?v=1686514294&width=1080"
+  },
+  {
+    "nombre": "Crema Hidratante Facial Día/Noche",
+    "precio": 11.40,
+    "imagen": "https://www.maquillalia.com/images/productos/cerave-crema-hidratante-de-dia-spf25-piel-normal-a-seca-1-57926.jpeg"
+  },
+  {
+    "nombre": "Polvo Compacto Control Brillo",
+    "precio": 8.99,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_664379-MLM47317655527_092021-O-polvos-compactos-control-de-brillo-lbel.webp"
+  },
+  {
+    "nombre": "Delineador Líquido Punta Fina",
+    "precio": 6.50,
+    "imagen": "https://acdn-us.mitiendanube.com/stores/001/023/143/products/vogue-delineador-colorissimo-punta-fina-plumon-80356b70fdc4029b2117135611100160-640-0.png"
+  },
+  {
+    "nombre": "Tónico Refrescante de Rosas",
+    "precio": 9.25,
+    "imagen": "https://lacasadelesparadrapo-ec.com/wp-content/uploads/2021/07/AGUA-DE-ROSAS-06.jpg"
+  },
+  {
+    "nombre": "Exfoliante Facial Suave",
+    "precio": 10.99,
+    "imagen": "https://static.sweetcare.com/img/prd/488/v-638200520084398004/cetaphil-010976cc_01.webp"
+  },
+  {
+    "nombre": "Mascarilla de Arcilla Purificante",
+    "precio": 12.80,
+    "imagen": "https://ibella.pe/cdn/shop/products/LORE-LIMP-MASCARILLAARCILLASPURAS-EUCALIPTO.png?v=1530923212"
+  },
+  {
+    "nombre": "Set de Cuidado de Manos",
+    "precio": 14.60,
+    "imagen": "https://www.seducete.cl/media/productos/kit-cuidado-de-manos-bluesky_kit-cuidado-de-manos-bluesky_asasa.png"
+  },
+  {
+    "nombre": "Aceite Corporal de Coco",
+    "precio": 11.90,
+    "imagen": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pal/pal03270/l/4.jpg"
+  }
+]

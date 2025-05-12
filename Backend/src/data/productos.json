@@ -1,0 +1,123 @@
+
+[
+  {
+    "codigo": "PRD001",
+    "nombre": "Base Líquida Tono Beige",
+    "cantidad_stock": 30,
+    "precio": 12.00,
+    "iva": 1.80,
+    "imagen": "https://dipasoec.vtexassets.com/arquivos/ids/159995/BASE-LIQUIDA-2-EN-1-01-CREAMY-VANILLA-Milani--3-.png?v=638731711899800000"
+  },
+  {
+    "codigo": "PRD002",
+    "nombre": "Paleta de Sombras Naturales",
+    "cantidad_stock": 20,
+    "precio": 18.00,
+    "iva": 2.70,
+    "imagen": "https://www.yanbal.com/medias/20013425-01.jpg?context=bWFzdGVyfGltYWdlc3wzMzUzNTl8aW1hZ2UvanBlZ3xhR0V6TDJnd05DOHhNRE14T1RjeU1USTJOekl6TUM4eU1EQXhNelF5TlY4d01TNXFjR2N8Njc0NDA4ZDM1NjIwZmM1MTVjNzMzYzM0ZDJhNDhmNzc0OTA0MjcyZWQwMmU4YzllODA2ZWNiNmYzNDJiYjRiYg"
+  },
+  {
+    "codigo": "PRD003",
+    "nombre": "Rímel Ultra Volumen",
+    "cantidad_stock": 50,
+    "precio": 9.50,
+    "iva": 1.43,
+    "imagen": "https://www.avon.com.ec/dam/cpe-assets/Blogs/Abril-2023/UltraMascara/ULTRA-APruebaDeAgua.jpg"
+  },
+  {
+    "codigo": "PRD004",
+    "nombre": "Labial Líquido Rojo Pasión",
+    "cantidad_stock": 40,
+    "precio": 8.75,
+    "iva": 1.31,
+    "imagen": "https://lignedor.com.co/wp-content/uploads/2024/09/ligneDor-lab-liq-mate-2024-Pasion-TX.jpg"
+  },
+  {
+    "codigo": "PRD005",
+    "nombre": "Delineador Waterproof Negro",
+    "cantidad_stock": 60,
+    "precio": 6.00,
+    "iva": 0.90,
+    "imagen": "https://glossecuador.com/wp-content/uploads/2024/12/4701556.jpg"
+  },
+  {
+    "codigo": "PRD006",
+    "nombre": "Brochas de Maquillaje x10",
+    "cantidad_stock": 25,
+    "precio": 15.00,
+    "iva": 2.25,
+    "imagen": "https://glossecuador.com/wp-content/uploads/2024/11/11.jpg"
+  },
+  {
+    "codigo": "PRD007",
+    "nombre": "Esmalte Rosa Pastel",
+    "cantidad_stock": 100,
+    "precio": 4.50,
+    "iva": 0.68,
+    "imagen": "https://i.pinimg.com/564x/39/ed/ce/39edce026170657a2b8ae34abfd4171e.jpg"
+  },
+  {
+    "codigo": "PRD008",
+    "nombre": "Crema Facial Hidratante",
+    "cantidad_stock": 35,
+    "precio": 10.00,
+    "iva": 1.50,
+    "imagen": "https://www.aki.com.ec/wp-content/uploads/2024/12/items2Figm2F1000x10002F7501056325442-1-8.jpg"
+  },
+  {
+    "codigo": "PRD009",
+    "nombre": "Perfume Floral 50ml",
+    "cantidad_stock": 15,
+    "precio": 25.00,
+    "iva": 3.75,
+    "imagen": "https://www.aromasyrecuerdos.com/wp-content/uploads/2024/04/irresistible-very-floral-50ml-min.jpg"
+  },
+  {
+    "codigo": "PRD010",
+    "nombre": "Mascarilla de Arcilla Verde",
+    "cantidad_stock": 22,
+    "precio": 11.50,
+    "iva": 1.73,
+    "imagen": "https://www.gloriasaltos.com/wp-content/uploads/2021/04/134624.jpg"
+  },
+  {
+    "codigo": "PRD011",
+    "nombre": "Exfoliante Corporal Suave",
+    "cantidad_stock": 18,
+    "precio": 13.00,
+    "iva": 1.95,
+    "imagen": "https://cosmetis.com/media/catalog/product/cache/8357f3cfca25f65dc286e017d4e3bdcd/7/5/7518449.jpeg"
+  },
+  {
+    "codigo": "PRD012",
+    "nombre": "Tónico Facial de Rosas",
+    "cantidad_stock": 28,
+    "precio": 9.00,
+    "iva": 1.35,
+    "imagen": "https://weir.ec/wp-content/uploads/2021/01/TonicodeRosas250ml-1.jpg"
+  },
+  {
+    "codigo": "PRD013",
+    "nombre": "Kit Manicure Básico",
+    "cantidad_stock": 45,
+    "precio": 7.50,
+    "iva": 1.13,
+    "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_649684-MEC77116283192_062024-N.webp"
+  },
+  {
+    "codigo": "PRD014",
+    "nombre": "Aceite Capilar de Argán",
+    "cantidad_stock": 20,
+    "precio": 14.20,
+    "iva": 2.13,
+    "imagen": "https://www.professionalspa.ec/wp-content/uploads/2022/02/4.jpg"
+  },
+  {
+    "codigo": "PRD015",
+    "nombre": "Polvo Compacto Tono Medio",
+    "cantidad_stock": 30,
+    "precio": 8.20,
+    "iva": 1.23,
+    "imagen": "https://belcorpecuador.vtexassets.com/arquivos/ids/338663/210104347_fotofondoblanco1.jpg?v=638816268498930000"
+  }
+]
